@@ -5,9 +5,17 @@
  * Return: The last digit.
  */
 int print_last_digit(int n)
-{ 
-	lastDigit = n % 10;
-	
-	_putchar(lastDigit);
-	return 0;
+{
+	int last;
+
+	last = n % 10;
+
+	if (last < 0)
+	{
+		last = last * -1;
+	}
+
+	_putchar(last + '0');
+
+	return (last);
 }
