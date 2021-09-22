@@ -2,7 +2,7 @@
 
 /**
  * puts_half - function with one argument
- * @str: char type
+ * @str: char  type
  *
  * Description: prints half of a string
  * Return: na
