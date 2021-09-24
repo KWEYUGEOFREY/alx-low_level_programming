@@ -7,7 +7,7 @@
  *@src: source
  *@n: integer
  *
- *Return: destination
+ *Return:  destination
  */
 
 char *_strncpy(char *dest, char *src, int n)
