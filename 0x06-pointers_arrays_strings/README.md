@@ -4,7 +4,7 @@
   ![](https://intranet.hbtn.io/images/contents/low_level_programming/projects/happy-clapping.gif)
 
 
-## Requirements
+### Requirements
 
 
 ### General
