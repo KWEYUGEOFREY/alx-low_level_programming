@@ -1,4 +1,4 @@
-# C  is Fun
+# C is Fun(when handling)
 <hr>
 
 ![](https://intranet.hbtn.io/images/contents/low_level_programming/projects/happy-clapping.gif)
