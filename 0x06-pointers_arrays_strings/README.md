@@ -1,7 +1,7 @@
 # C is Fun(when handling basics)
 <hr>
 
-![](https://intranet.hbtn.io/images/contents/low_level_programming/projects/happy-clapping.gif)
+  ![](https://intranet.hbtn.io/images/contents/low_level_programming/projects/happy-clapping.gif)
 
 
 ## Requirements
