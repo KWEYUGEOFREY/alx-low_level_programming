@@ -1,12 +1,22 @@
+#include "holberton.h"
+
 /**
- * _strlen_recursion - returns the length of a string.
- * @s: the string to count
- * Return: length of the string
+ *_strchr - locates character in a string
+ *@s: string
+ *@c: character
+ *
+ *Return: 0
  */
-int _strlen_recursion(char *s)
+
+char *_strchr(char *s, char c)
 {
-	if (*s == '\0')
-		return (0);
-	s++;
-	return (1 + _strlen_recursion(s));
+
+do {
+if (*s == c)
+return ((char *)s);
+}
+while (*s++)
+;
+
+return (0);
 }
