@@ -1,6 +1,6 @@
 
  
-#include "holberton.h"
+#include "main.h"
 
 /**
   * factorial - Calculate the factorial of a number
