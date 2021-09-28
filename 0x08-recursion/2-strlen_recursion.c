@@ -24,11 +24,11 @@
 
 int _strlen_recursion(char *s)
 {
-int a;
+     int a;
 
-if (*s == '\0')
-return (0);
+   if (*s == '\0')
+    return (0);
 
-a = _strlen_recursion(s + 1) + 1;
-return (a);
+    a = _strlen_recursion(s + 1) + 1;
+   return (a);
 }
