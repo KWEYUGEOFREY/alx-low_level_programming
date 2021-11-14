@@ -6,7 +6,7 @@
 (* a blank line
 * Description: this program is the enttry point for a calculator)?
 (* section header: 3-calc.h)*
-* Return: 0 in success
+* Return: 0 in success 
 */
 int main(int argc, char *argv[])
 {
