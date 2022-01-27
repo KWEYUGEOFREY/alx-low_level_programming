@@ -1,1 +1,3 @@
-Readme text here
+##ReadMe
+
+THIS PART GIVES GIVES THE BASICS OF PYTHON SYNTAX
